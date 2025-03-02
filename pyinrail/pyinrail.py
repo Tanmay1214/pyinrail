@@ -3,7 +3,7 @@ import json
 import time
 from io import BytesIO
 import requests
-import demjson
+import demjson3
 import pytesseract
 import pandas as pd
 from PIL import Image
